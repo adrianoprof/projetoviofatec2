@@ -96,7 +96,7 @@ function Login() {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component="h1" variant="h5">
-          Vio - Teste na aula 1...
+          Vio - Teste na aula 2...
         </Typography>
         <Box
           component="form"
